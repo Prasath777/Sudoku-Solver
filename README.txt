@@ -1,0 +1,1 @@
+This sudoku solver was programmed using the backtracking algoritm.
